@@ -7,4 +7,6 @@ a. sumar
 
 b. obtenerPorcentaje
 
+c. tipoDato
+
 
