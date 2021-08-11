@@ -9,4 +9,6 @@ b. obtenerPorcentaje
 
 c. tipoDato
 
+d. numero_a_letras
+
 
