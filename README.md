@@ -15,3 +15,5 @@ e. nombreFecha
 
 f. mesAño
 
+g. diaSemana
+
